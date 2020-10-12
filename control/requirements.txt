@@ -1,0 +1,7 @@
+sympy
+control
+scipy
+matplotlib
+numpy
+jupyter
+jupyterlab
